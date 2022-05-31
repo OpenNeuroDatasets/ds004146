@@ -1,0 +1,140 @@
+{
+  "participant_id":{
+    "Description":"Participant identifier"
+  },
+  "avg_abs_motion":{
+    "Description":"Scan filename"
+  },
+  "aor":{
+    "Description":"AFNI's outlier ratio. See https://mriqc.readthedocs.io/en/latest/iqms/bold.html for full description of image quality metrics"
+  },
+  "aqi":{
+    "Description":"AFNI's quality index"
+  },
+  "dummy_trs":{
+    "Description":"Number of dummy scans"
+  },
+  "dvars_nstd":{
+    "Description":"D referring to temporal derivative of timecourses, VARS referring to RMS variance over voxels (DVARS). Rate of change of BOLD signal across the entire brain at each frame of data"
+  },
+  "dvars_std":{
+    "Description":"DVARS normalized with the standard deviation of the temporal difference time series"
+  },
+  "dvars_vstd":{
+    "Description":"Voxel-wise standardization of DVARS"
+  },
+  "efc":{
+    "Description":"Entropy-focus criterion"
+  },
+  "fber":{
+    "Description":"Foreground-Background energy ratio"
+  },
+  "fd_mean":{
+    "Description":"Framewise Displacement (FD) mean"
+  },
+  "fd_num":{
+    "Description":"Number of timepoints above FD threshold (0.20 mm)"
+  },
+  "fd_perc":{
+    "Description":"Percent of FDs above the FD threshold (0.20 mm) "
+  },
+  "fwhm_avg":{
+    "Description":"Full-width half maximum (FWHM) smoothness"
+  },
+  "fwhm_x":{
+    "Description":""
+  },
+  "fwhm_y":{
+    "Description":""
+  },
+  "fwhm_z":{
+    "Description":""
+  },
+  "gcor":{
+    "Description":"Global Correlation"
+  },
+  "gsr_x":{
+    "Description":"Ghost to Signal Ratio (GSR) along the x-axis phase encoding direction"
+  },
+  "gsr_y":{
+    "Description":"GSR along the y-axis phase encoding direction"
+  },
+  "size_t":{
+    "Description":""
+  },
+  "size_x":{
+    "Description":""
+  },
+  "size_y":{
+    "Description":""
+  },
+  "size_z":{
+    "Description":""
+  },
+  "snr":{
+    "Description":"Signal-to-noise ratio (SNR)"
+  },
+  "spacing_tr":{
+    "Description":""
+  },
+  "spacing_x":{
+    "Description":""
+  },
+  "spacing_y":{
+    "Description":""
+  },
+  "spacing_z":{
+    "Description":""
+  },
+  "summary_bg_k":{
+    "Description":""
+  },
+  "summary_bg_mad":{
+    "Description":""
+  },
+  "summary_bg_mean":{
+    "Description":""
+  },
+  "summary_bg_median":{
+    "Description":""
+  },
+  "summary_bg_n":{
+    "Description":""
+  },
+  "summary_bg_p05":{
+    "Description":""
+  },
+  "summary_bg_p95":{
+    "Description":""
+  },
+  "summary_bg_stdv":{
+    "Description":""
+  },
+  "summary_fg_k":{
+    "Description":""
+  },
+  "summary_fg_mad":{
+    "Description":""
+  },
+  "summary_fg_mean":{
+    "Description":""
+  },
+  "summary_fg_median":{
+    "Description":""
+  },
+  "summary_fg_n":{
+    "Description":""
+  },
+  "summary_fg_p05":{
+    "Description":""
+  },
+  "summary_fg_p95":{
+    "Description":""
+  },
+  "summary_fg_stdv":{
+    "Description":""
+  },
+  "tsnr":{
+    "Description":""
+  }
+}
