@@ -1,0 +1,45 @@
+{
+  "participant_id":{
+    "Description":"Participant identifier"
+  },
+  "T1w_QC":{
+    "Description":"T1-weighted (MP2RAGE) scan visual quality rating",
+    "Levels":{
+      "1":"pass",
+      "2":"warn",
+      "3":"fail"
+    }
+  },
+  "FLAIR_QC":{
+    "Description":"FLAIR scan visual quality rating",
+    "Levels":{
+      "1":"pass",
+      "2":"warn",
+      "3":"fail"
+    }
+  },
+  "T2w_QC":{
+    "Description":"T2-weighted scan visual quality rating",
+    "Levels":{
+      "1":"pass",
+      "2":"warn",
+      "3":"fail"
+    }
+  },
+  "TSE1_QC":{
+    "Description":"TSE first scan visual quality rating",
+    "Levels":{
+      "1":"pass",
+      "2":"warn",
+      "3":"fail"
+    }
+  },
+  "TSE2_QC":{
+    "Description":"TSE second scan visual quality rating",
+    "Levels":{
+      "1":"pass",
+      "2":"warn",
+      "3":"fail"
+    }
+  }
+}

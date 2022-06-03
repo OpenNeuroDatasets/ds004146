@@ -1,0 +1,13 @@
+{
+ "participant_id":"Participant identifier",
+ "avg_abs_motion":"mean of absolute (w.r.t first volume) volume-to-volume movement - from eddy_movement_rms",
+ "avg_rel_motion":"mean of relative (w.r.t previous volume) volume-to-volume movement - from eddy_movement_rms",
+ "avg_x_translation":"mean of participant movement - from eddy_parameters",
+ "avg_y_translation":"mean of participant movement - from eddy_parameters",
+ "avg_z_translation":"mean of participant movement - from eddy_parameters",
+ "avg_x_rotation":"mean of participant movement (converted to degrees) - from eddy_parameters",
+ "avg_y_rotation":"mean of participant movement (converted to degrees) - from eddy_parameters",
+ "avg_z_rotation":"mean of participant movement (converted to degrees) - from eddy_parameters",
+ "TotalOutliers":"count of outlier slices - from eddy_outlier_report",
+ "TotalOutliers_pc":"count of outlier slices as a percentage of total slices (80 non-b0 volumes * 68 slices"
+}
