@@ -1,0 +1,20 @@
+{
+  "onset": {
+    "LongName": "Event onset time",
+    "Description": "Onset (in seconds) of the event"
+  },
+  "duration": {
+    "LongName": "Event duration",
+    "Description": "Duration of the event (measured from onset) in seconds"
+  },
+  "trial_type": {
+    "LongName": "Event category ",
+    "Description": "Primary categorisation of each trial to identify them as instances of the experimental conditions",
+    "Levels": {
+      "control": "scenery, no focus on characters",
+      "social": "non-main characters interacting",
+      "pain": "characters in physical pain",
+      "mental": "characters mentalising"
+    }
+  }
+}
