@@ -21,6 +21,22 @@
   },
       "database": {
 	  "LongName": "Stimuli database",
-	  "Description": "Developmental Emotional Faces Stimulus Set (DEFSS)"
+	  "Description": "NIMH Child Emotional Faces Picture Set (NIMH-ChEFS)"
+  },
+    "target_condition": {
+	  "LongName": "Target stimulus condition",
+	  "Description": "Target emotion",
+	  "Levels": {
+		  "FEAR": "Fearful face is presented",
+		  "HAPPY": "Happy face is presented"
+	  }
+  },
+    "distractor": {
+	  "LongName": "Distractor text",
+	  "Description": "Distractor text conflict interference",
+	  "Levels": {
+		  "FEAR": "FEAR is presented over face",
+		  "HAPPY": "HAPPY is presented over face"
+	  }
   }
 }
