@@ -4,31 +4,31 @@
     "Description": "Trial onset in seconds"
   },
   "duration": {
-    "LongName": "Stimulus presentation time",
-    "Description": "Stimulus presentation time"
+    "LongName": "Trial stimulus presentation time",
+    "Description": "Trial stimulus presentation time"
   },
   "interstimulus_interval": {
-    "LongName": "Interval between stimuli presentations",
-    "Description": "Interval between stimuli presentations in seconds"
+    "LongName": "Interval between trials",
+    "Description": "Interval between trials in seconds"
   },
   "trial_type": {
-    "LongName": "Stimuli conditions",
-    "Description": "Stimuli for conflict interference",
+    "LongName": "Trial stimuli conditions",
+    "Description": "Trial stimuli for conflict interference",
     "Levels": {
-      "Congruent": "Word and facial expression are congruent",
-      "Incongruent": "Word and facial expression are incongruent"
+      "Congruent": "Word and facial emotion are congruent",
+      "Incongruent": "Word and facial emotion are incongruent"
     }
   },
   "trial_type_2": {
-    "LongName": "Additional stimuli conditions",
-    "Description": "Stimuli for conflict regulation",
+    "LongName": "Additional trial stimuli conditions",
+    "Description": "Trial stimuli for conflict regulation",
     "Levels": {
-      "pCI": "postcongruent incongruent - congruent followed by incongruent",
-      "pII": "postincongruent incongruent - incongruent followed by incongruent"
+      "pCI": "postcongruent incongruent - congruent trial followed by incongruent trial",
+      "pII": "postincongruent incongruent - incongruent trial followed by incongruent trial"
     }
   },
   "target_condition": {
-    "LongName": "Target stimulus condition",
+    "LongName": "Target trial stimulus condition",
     "Description": "Target facial emotion presented to participants",
     "Levels": {
       "FEAR": "Fearful face is presented",
@@ -37,7 +37,7 @@
   },
   "distractor": {
     "LongName": "Distractor text",
-    "Description": "Distractor text overlayed on target facial emotion",
+    "Description": "Distractor text overlayed on target facial emotion during trial",
     "Levels": {
       "FEAR": "Overlayed emotion word is FEAR",
       "HAPPY": "Overlayed emotion word is HAPPY"
