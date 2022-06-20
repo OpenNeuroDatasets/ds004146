@@ -1,0 +1,4 @@
+1.0.1 2022-06-14
+  - Changes to the T2w and FLAIR images. In the 1.0.0 dataset, the T2w and FLAIR images were resampled to match the MP2RAGE image as part of the defacing proceedure. In this version, the defaced T2w and FLAIR images are provided in their original space.
+1.0.0 2022-06-03
+  - Initial dataset
