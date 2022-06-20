@@ -5,7 +5,7 @@
   },
   "duration": {
     "LongName": "Trial stimulus presentation time",
-    "Description": "Trial stimulus presentation time"
+    "Description": "Trial stimulus presentation time in seconds"
   },
   "interstimulus_interval": {
     "LongName": "Interval between trials",
@@ -45,7 +45,7 @@
   },
   "response": {
     "LongName": "Participant response",
-    "Description": "Response made by participant (identify the underlying facial emotion while ignoring an overlaying emotion word",
+    "Description": "Response made by participant (identify the underlying facial emotion while ignoring an overlaying emotion word)",
     "Levels": {
       "FEAR": "Participant response was FEAR",
       "HAPPY": "Participant response was HAPPY"
@@ -64,7 +64,7 @@
     }
   },
   "identifier": {
-    "LongName": "Face identifier ",
+    "LongName": "Facial emotion identifier",
     "Description": "Identifer for the NIMH-ChEFS stimuli"
   },
   "database": {
