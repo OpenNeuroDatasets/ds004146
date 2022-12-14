@@ -1,20 +1,20 @@
-onset	duration	trial_type
-13	6	control
-36	10	control
-50	6	social
-58	8	control
-73	10	social
-83	2	social
-96	6	social
-107	2	pain
-109	4	social
-119	6	pain
-140	4	pain
-165	8	mental
-175	2	pain
-188	6	pain
-205	4	pain
-230	8	mental
-249	10	mental
-265	17	mental
-290	2	pain
+onset	duration	trial_type	description
+13	6	control	Storks flying 
+36	10	control	Storks flying 
+50	6	social	Storks and clouds meeting 
+58	8	control	Creation of kitten 
+73	10	social	Baby and cloud interact 
+82	2	social	Clouds and storks laugh 
+96	6	social	Gus and crocodile play 
+107	2	pain	Stork exhausted 
+109	4	social	Gus and stork play 
+119	6	pain	Crocodile bites stork on head 
+140	4	pain	Stork out of breath, exhausted
+165	8	mental	Gus sees Peck looking happily at other clouds 
+175	2	pain	Stork beaten by ram 
+188	6	pain	Stork pricked by porcupine 
+205	4	pain	Gus plucks out porcupine spines 
+230	8	mental	Stork leaves Gus for another cloud 
+249	10	mental	Gus sad about stork with another cloud 
+265	17	mental	Stork returns to Gus 
+290	2	pain	Gus electrocuted 
