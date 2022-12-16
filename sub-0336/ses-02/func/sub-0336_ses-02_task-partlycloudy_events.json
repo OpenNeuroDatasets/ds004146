@@ -16,5 +16,9 @@
       "pain": "characters in physical pain",
       "mental": "characters mentalising"
     }
+  },
+  "description": {
+    "LongName": "Event description",
+    "Description": "Main occurence during event"
   }
 }
