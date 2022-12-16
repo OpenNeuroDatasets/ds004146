@@ -1,0 +1,26 @@
+{
+  "trial_type": {
+	  "LongName": "Stimuli conditions",
+	  "Description": "Stimuli for conflict interference",
+	  "Levels": {
+		  "Congruent": "Word and expression are congruent",
+		  "Incongruent": "Word and expression are incongruent"
+	  }
+  },
+    "trial_type_2": {
+	  "LongName": "Additional stimuli conditions",
+	  "Description": "Stimuli for conflict regulation",
+	  "Levels": {
+		  "pCI": "postcongruent incongruent - congruent followed by incongruent",
+		  "pII": "postincongruent incongruent - incongruent followed by incongruent"
+	  }
+  },
+    "identifier": {
+	  "LongName": "Face identifier ",
+	  "Description": "Identifer for face stimuli image"
+  },
+      "database": {
+	  "LongName": "Stimuli database",
+	  "Description": "Developmental Emotional Faces Stimulus Set (DEFSS)"
+  }
+}
